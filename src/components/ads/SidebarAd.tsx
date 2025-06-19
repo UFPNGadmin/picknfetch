@@ -1,3 +1,4 @@
+const SidebarAd = () => {
   return (
     <div className="bg-white border border-blue-200 rounded-xl p-4 shadow-sm hover:shadow-md transition-shadow duration-200">
       <a
